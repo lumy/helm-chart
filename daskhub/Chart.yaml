@@ -13,7 +13,7 @@ dependencies:
         parent: rbac
   - name: dask-gateway
     version: "main"
-    repository: 'https://dask.org/dask-gateway-helm-repo/'
+    repository: 'https://github.com/dask/dask-gateway'
 maintainers:
   - name: Jacob Tomlinson (Nvidia)
     email: jtomlinson@nvidia.com
