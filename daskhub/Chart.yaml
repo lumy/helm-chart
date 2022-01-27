@@ -12,7 +12,7 @@ dependencies:
       - child: rbac
         parent: rbac
   - name: dask-gateway
-    version: "main"
+    tag: "main"
     repository: 'https://github.com/dask/dask-gateway'
 maintainers:
   - name: Jacob Tomlinson (Nvidia)
